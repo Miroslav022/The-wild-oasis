@@ -1,15 +1,16 @@
 <h1>Wild Oasis Cabin Reservation </h1>
-Welcome to the Wild Oasis Cabin Reservation app repository! 
-This React-based application is designed exclusively for employees of the Wild Oasis Company to efficiently manage cabin reservations and related tasks.
+Welcome to the Wild Oasis Cabin Reservation app repository!<br/>
+This React-based application is designed exclusively for employees of the Wild Oasis Company to efficiently manage cabin reservations and related tasks.<br/>
 
 <h2>Features</h2>
-Reservation Tracking: Keep track of all reservations made through the Wild Oasis website, allowing users to easily log in, choose their preferred cabin, and make a reservation.
-Reservation Management: Empower administrators to efficiently manage all reservations, ensuring smooth operations and customer satisfaction.
-User Management: Create and manage user accounts to maintain access control and provide personalized experiences.
-Cabin Management: Administer all aspects of cabin details, from availability to amenities, ensuring accurate information for customers.
-And More: Explore additional functionalities tailored to streamline the reservation process and enhance user experience.
-Technologies Used
-React: Leveraging the power of React for building a dynamic and responsive user interface.
+Reservation Tracking: Keep track of all reservations made through the Wild Oasis website, allowing users to easily log in, choose their preferred cabin, and make a reservation.<br/>
+Reservation Management: Empower administrators to efficiently manage all reservations, ensuring smooth operations and customer satisfaction.<br/>
+User Management: Create and manage user accounts to maintain access control and provide personalized experiences.<br/>
+Cabin Management: Administer all aspects of cabin details, from availability to amenities, ensuring accurate information for customers.<br/>
+And More: Explore additional functionalities tailored to streamline the reservation process and enhance user experience.<br/>
+
+<h2>Technologies Used</h2>
+<p>React: Leveraging the power of React for building a dynamic and responsive user interface.</p>
 Supabase: Utilizing Supabase as the backend solution for efficient data storage and retrieval.
 React Router: Employing React Router for seamless navigation and routing throughout the application.
 React Query: Harnessing React Query for efficient management of remote states, ensuring real-time data updates.
