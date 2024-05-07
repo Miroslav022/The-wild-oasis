@@ -7,6 +7,7 @@ This React-based application is designed exclusively for employees of the Wild O
 <p>Reservation Management: Empower administrators to efficiently manage all reservations, ensuring smooth operations and customer satisfaction.</p>
 <p>User Management: Create and manage user accounts to maintain access control and provide personalized experiences.</p>
 <p>Cabin Management: Administer all aspects of cabin details, from availability to amenities, ensuring accurate information for customers.</p>
+<p>Light/Dark Theme.</p>
 <p>And More: Explore additional functionalities tailored to streamline the reservation process and enhance user experience.</p>
 
 <h2>Technologies Used</h2>
