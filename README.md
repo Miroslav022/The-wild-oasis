@@ -1,4 +1,4 @@
-Wild Oasis Cabin Reservation
+<h1>Wild Oasis Cabin Reservation </h1>
 Welcome to the Wild Oasis Cabin Reservation app repository! This React-based application is designed exclusively for employees of the Wild Oasis Company to efficiently manage cabin reservations and related tasks.
 
 Features
